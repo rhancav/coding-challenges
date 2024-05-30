@@ -1,0 +1,1 @@
+Coding challenges from [Coding Challenges by John Crickett](https://codingchallenges.substack.com/)
